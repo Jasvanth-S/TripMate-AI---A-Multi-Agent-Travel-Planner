@@ -1,6 +1,5 @@
-def main():
-    print("Hello from tripmate-agent!")
+from tools.tavily_tool import tavily_search
 
+res = tavily_search("latest news on AI Technology")
 
-if __name__ == "__main__":
-    main()
+print(res)
