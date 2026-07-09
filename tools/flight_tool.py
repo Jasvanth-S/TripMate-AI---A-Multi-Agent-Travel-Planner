@@ -16,7 +16,7 @@ default_origin_iata = os.getenv("DEFAULT_ORIGIN_IATA")
 
 BASE_URL = "https://api.aviationstack.com/v1/flights"
 
-
+API_KEY = os.getenv("AVIATIONSTACK_API_KEY")
 
 COUNTRY_ALIASES = {
     "usa": "US",
