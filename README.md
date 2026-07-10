@@ -12,6 +12,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-blueviolet?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-AI-green?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![License](https://img.shields.io/badge/Open%20Source-MIT-success?style=for-the-badge)
 
